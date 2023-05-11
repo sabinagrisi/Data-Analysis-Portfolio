@@ -9,11 +9,8 @@ In my free time, I enjoy exploring new data analysis tools and techniques, and I
 My CV in [pdf](https://github.com/sabinagrisi/Data-Analysis-Portfolio/blob/main/DataAnalyst_SabinaGrisi_Lebenslauf.pdf).
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
-//## Table of contents
-//ffff
+
 ## Following are my projects in SQL, Python, Power BI & Excel:
 ### SQL
-//### Python
-//### Power BI
-//### Excel
+
 
